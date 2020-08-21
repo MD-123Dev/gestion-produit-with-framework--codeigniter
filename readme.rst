@@ -10,6 +10,12 @@ interface and logical structure to access these libraries. CodeIgniter lets
 you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
+******************
+Description on a project
+************************
++ use Mvc design pattern 
+
++ CRUD with Mvc design pattern 
 *******************
 Release Information
 *******************
