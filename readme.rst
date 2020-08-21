@@ -11,11 +11,11 @@ you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
 ******************
-Description on a project
+ Description on a project
 ************************
-+ use Mvc design pattern 
+	+ use Mvc design pattern 
 
-+ CRUD with Mvc design pattern 
+	+ CRUD with Mvc design pattern 
 *******************
 Release Information
 *******************
